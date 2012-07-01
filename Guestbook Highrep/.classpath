@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="classes" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB" rootpath="JRE_SRCROOT" sourcepath="JRE_SRC"/>
+	<classpathentry kind="con" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/demos/guestbook/war/WEB-INF/classes"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/demos/guestbook/war/WEB-INF/lib/appengine-api-labs.jar"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/demos/guestbook/war/WEB-INF/lib/appengine-api.jar"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/demos/guestbook/war/WEB-INF/lib/appengine-jsr107cache.jar"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/demos/guestbook/war/WEB-INF/lib/datanucleus-appengine-1.0.10.final.jar"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/demos/guestbook/war/WEB-INF/lib/datanucleus-core-1.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/demos/guestbook/war/WEB-INF/lib/datanucleus-jpa-1.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/demos/guestbook/war/WEB-INF/lib/geronimo-jpa_3.0_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/demos/guestbook/war/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/demos/guestbook/war/WEB-INF/lib/jdo2-api-2.3-eb.jar"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/lib/shared/appengine-local-runtime-shared.jar"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/lib/shared/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/lib/shared/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/lib/shared/jsp/repackaged-appengine-ant-1.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/lib/shared/jsp/repackaged-appengine-ant-launcher-1.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/lib/shared/jsp/repackaged-appengine-jasper-6.0.29.jar"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/lib/shared/jsp/repackaged-appengine-jasper-el-6.0.29.jar"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/lib/shared/jsp/repackaged-appengine-tomcat-juli-6.0.29.jar"/>
+	<classpathentry kind="lib" path="C:/cc/juno/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.0/appengine-java-sdk-1.7.0/lib/shared/servlet-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
